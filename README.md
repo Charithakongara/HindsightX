@@ -28,17 +28,28 @@ Current sentiment toward your solution
 # Project Structure
 
 ├── server.ts                       # Express backend server with Vite middleware & Gemini proxy routes
+
 ├── index.html                      # HTML entrypoint with metadata and SEO OpenGraph tags
+
 ├── package.json                    # Project dependencies, scripts (dev: tsx server.ts)
+
 ├── tsconfig.json                   # TypeScript configuration with path aliases
+
 ├── vite.config.ts                  # Vite build configuration with Tailwind CSS plugin
+
 ├── metadata.json                   # Applet manifest and runtime capability flags
+
 ├── article.md                      # 1,500-word technical article for publication
+
 ├── SUBMISSION_GUIDE.md             # Complete submission deliverables (LinkedIn post, video script, prompt)
+
 │
+
 └── src/
     ├── main.tsx                    # React application entry point (DOM root mount)
+    |
     ├── App.tsx                     # Top-level shell coordinating navigation and views
+    |
     ├── index.css                   # Global styles, Tailwind imports, custom scrollbars & keyframes
     │
     ├── types/
