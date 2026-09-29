@@ -1,5 +1,4 @@
-#HindsightX
-
+# HindsightX
 Most meeting prep tools stop at a generic agenda. HindsightX goes further by remembering the full history of every interaction:
 
 What concerns were raised last time
