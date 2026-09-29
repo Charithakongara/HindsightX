@@ -1,0 +1,6 @@
+{
+  "name": "Hindsight Auditor — AI Governance & Compliance Memory Agent",
+  "description": "AI governance and compliance agent powered by Hindsight persistent memory. Retains past audit findings, control tests, auditor preferences, and drafts compliant evidence packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
